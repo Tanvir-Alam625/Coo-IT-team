@@ -151,7 +151,7 @@
 /*--------------------------------------Services-------------------------------------*/
 
 #services {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(unsplash-5-KmbSe5ivg-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(./image/unsplash-5-KmbSe5ivg-unsplash.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef!important;
@@ -314,7 +314,7 @@ h1::after {
 /*-----------Promostion------------------------------------*/
 
 #promo {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(background1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(./image/background1.jpg);
     color: #fff!important;
     background-size: cover;
     background-position: center;
